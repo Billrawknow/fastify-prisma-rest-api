@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^6.0.0-beta.0",
-    "@prisma/client": "^5.14.0",
+    "@prisma/client": "^5.15.0",
     "fastify": "^4.27.0",
     "fastify-jwt": "^4.2.0",
     "fastify-swagger": "^5.2.0",
@@ -21,7 +21,7 @@
     "zod-to-json-schema": "^3.23.0"
   },
   "devDependencies": {
-    "@types/node": "^20.14.1",
+    "@types/node": "^20.14.2",
     "@types/tap": "^15.0.6",
     "sinon": "^13.0.1",
     "ts-node": "^10.7.0",
